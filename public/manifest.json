@@ -40,7 +40,7 @@
     "sizes": "512x512"
     }
 ],
-    "name": "Bank Transaction Watcher",
+    "name": "Budget Tracker",
     "short_name": "BankWatch",
     "orientation": "portrait",
     "display": "standalone",
